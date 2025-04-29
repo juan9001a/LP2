@@ -1,0 +1,10 @@
+C:\Users\0030482421003\Desktop\atv\Pmatrizes\Pmatrizes\bin\Debug\Pmatrizes.exe.config
+C:\Users\0030482421003\Desktop\atv\Pmatrizes\Pmatrizes\bin\Debug\Pmatrizes.exe
+C:\Users\0030482421003\Desktop\atv\Pmatrizes\Pmatrizes\bin\Debug\Pmatrizes.pdb
+C:\Users\0030482421003\Desktop\atv\Pmatrizes\Pmatrizes\obj\Debug\Pmatrizes.csproj.AssemblyReference.cache
+C:\Users\0030482421003\Desktop\atv\Pmatrizes\Pmatrizes\obj\Debug\Pmatrizes.Form1.resources
+C:\Users\0030482421003\Desktop\atv\Pmatrizes\Pmatrizes\obj\Debug\Pmatrizes.Properties.Resources.resources
+C:\Users\0030482421003\Desktop\atv\Pmatrizes\Pmatrizes\obj\Debug\Pmatrizes.csproj.GenerateResource.cache
+C:\Users\0030482421003\Desktop\atv\Pmatrizes\Pmatrizes\obj\Debug\Pmatrizes.csproj.CoreCompileInputs.cache
+C:\Users\0030482421003\Desktop\atv\Pmatrizes\Pmatrizes\obj\Debug\Pmatrizes.exe
+C:\Users\0030482421003\Desktop\atv\Pmatrizes\Pmatrizes\obj\Debug\Pmatrizes.pdb
